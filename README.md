@@ -17,26 +17,91 @@ The core of digital twin technology is CAX - computer-aided design, engineering,
 Based on this SDK, we are developing the OpenDigitalTwin project for key applications like additive manufacturing, composite materials, robotics, and metrology. You are welcome to join the OpenCAXPlus project and OpenDigitalTwin project.
 
 System solutions for complex products, algorithms, and applications !
+   
+# Additive Manufacturing
+<div align="center">
+<img decoding="async" src="images/4.jpg" width="1800">
+</div>
+<div align="center">
+<img decoding="async" src="images/3.jpg" width="1800">
+</div>
+
+# Composite Materials
+<div align="center">
+<img decoding="async" src="images/5.jpg" width="1800">
+</div>
+<div align="center">
+<img decoding="async" src="images/6.jpg" width="1800">
+</div>
+<div align="center">
+<img decoding="async" src="images/7.jpg" width="1800">
+</div>
+
+# Robotics
+<div align="center">
+<img decoding="async" src="images/ros1.jpg" width="1800">
+</div>
+<div align="center">
+<img decoding="async" src="images/ros2.jpg" width="1800">
+</div>
+
+# Metrology
+<div align="center">
+<img decoding="async" src="images/8.jpg" width="1800">
+</div>
+<div align="center">
+<img decoding="async" src="images/9.jpg" width="1800">
+</div>
+<div align="center">
+<img decoding="async" src="images/10.jpg" width="1800">
+</div>
+
+
+# Incubator
+
+We have connections with many incubators. If you would like to obtain financial support, please contact us.
 
 # [Logs](./logs/logs.md)
 
 1. FENGSim
    * qt5->qt6 (...)
    * vtk8->vtk9 (...)
+   
 2. Mesh Generation
-   * cgal
-	  * cgal 2d triangulation (2023-08-23)
-	  * cgal 3d triangulation (2023-08-23)
-	  * cgal 2d mesh generation (2023-08-23)
-	  * cgal 3d mesh generation (2023-08-23)
-   * triangle (...)
+   * cgal 2d/3d triangulation and meshing (2023-08-23)
+
+	<div align="center">
+   <img decoding="async" src="images/mesh/cgal/1.jpg" width="400">
+   </div>
+   
+   * triangle (2023-09-23)
+   
+   <div align="center">
+   <img decoding="async" src="images/mesh/triangle/1.jpg" width="400">
+   </div>
+   
 3. Contact
    * Hello World! (2023-09-13)
-   ![RUNOOB 图标](images/contact/2.png)
-   ![RUNOOB 图标](images/contact/3.png)
-   ![RUNOOB 图标](images/contact/4.png)
+   
+   <div align="center">
+   <img decoding="async" src="images/contact/2.png" width="400">
+   </div>
+   
+   <div align="center">
+   <img decoding="async" src="images/contact/3.png" width="400">
+   </div>
+   
+   <div align="center">
+   <img decoding="async" src="images/contact/4.png" width="400">
+   </div>
+   
+   <div align="center">
+   <img decoding="async" src="images/contact/5.png" width="400">
+   </div>
+   
    * Domain Decomposition Method, the Poisson equation (2023-08-23)
    * Domain Decomposition Method, the elasticity equation (...)
+   
 4. ROS 
    * <mark>ros-dev-tools</mark> from <mark>infra-variants</mark> in <mark>ros-infrastructure</mark>
 	 > This repository contains package configuration information and automation for the ROS Infrastructure variant packages. Currently there are two variants used for ROS Infrastructure. ros-build-essential contains the base set of packages to be present when building any ROS package on the build farm. ros-dev-tools contains packages that are of general use to ROS developers but which are not dependencies of any particular packages within a ROS distribution.
@@ -48,28 +113,3 @@ System solutions for complex products, algorithms, and applications !
 	 >Vcstool is a version control system (VCS) tool, designed to make working with multiple repositories easier.
    * MoveIt sources and compilation (...)
    * Navigation sources and compilation (...)
-   
-# Additive Manufacturing
-
-![RUNOOB 图标](images/4.png)
-![RUNOOB 图标](images/3.png)
-
-# Composite Materials
-
-![RUNOOB 图标](images/5.png)
-![RUNOOB 图标](images/6.png)
-![RUNOOB 图标](images/7.png)
-
-# Robotics
-![RUNOOB 图标](images/ros1.jpg)
-![RUNOOB 图标](images/ros2.jpg)
-
-# Metrology
-
-![RUNOOB 图标](images/8.png)
-![RUNOOB 图标](images/9.png)
-![RUNOOB 图标](images/10.png)
-
-# Incubator
-
-We have connections with many incubators. If you would like to obtain financial support, please contact us.
